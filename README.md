@@ -21,7 +21,7 @@ Testing on One sample on VIPL-HR:
 ```
 python inference_OneSample_VIPL_PhysFormer.py
 ```
-3. Calculate the HR error with the file 'Inference_HRevaluation.m' using Matlab (You can also easily use python script instead). 
+3. Calculate the HR error with the file 'Inference_HRevaluation.m' using Matlab (You can also easily use python script to implement it). 
 
 
 Citation
