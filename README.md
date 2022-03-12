@@ -3,8 +3,12 @@ Main code of **CVPR2022 paper "PhysFormer: Facial Video-based Physiological Meas
 
 ![image](https://github.com/ZitongYu/PhysFormer/blob/main/framework.png)  
 
+module load pytorch/1.9
+pip install --user imgaug
+
 Training on VIPL-HR:
 -----
+
 '''
 python train_Physformer_160_VIPL.py
 '''
