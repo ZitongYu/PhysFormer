@@ -34,3 +34,14 @@ If you find it is useful in your research, please cite:
             booktitle={CVPR},
             year={2022}
           }
+
+If you use the VIPL-HR datset, please cite:  
+         
+         @article{niu2019rhythmnet,
+           title={Rhythmnet: End-to-end heart rate estimation from face via spatial-temporal representation},
+           author={Niu, Xuesong and Shan, Shiguang and Han, Hu and Chen, Xilin},
+           journal={IEEE Transactions on Image Processing},
+           volume={29},
+           pages={2409--2423},
+           year={2019}
+         }
