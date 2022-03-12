@@ -28,18 +28,18 @@ Citation
 ------- 
 If you find it is useful in your research, please cite:  
          
-@inproceedings{yu2021physformer,
-   title={PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer},
-   author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Torr, Philip and Zhao, Guoying},
-   booktitle={CVPR},
-   year={2022}
- }
+         @inproceedings{yu2021physformer,
+            title={PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer},
+            author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Torr, Philip and Zhao, Guoying},
+            booktitle={CVPR},
+            year={2022}
+          }
 
 If you use the VIPL-HR datset, please cite:  
          
-@article{niu2019rhythmnet,
-  title={Rhythmnet: End-to-end heart rate estimation from face via spatial-temporal representation},
-  author={Niu, Xuesong and Shan, Shiguang and Han, Hu and Chen, Xilin},
-  journal={IEEE Transactions on Image Processing},
-  year={2019}
-}
+         @article{niu2019rhythmnet,
+           title={Rhythmnet: End-to-end heart rate estimation from face via spatial-temporal representation},
+           author={Niu, Xuesong and Shan, Shiguang and Han, Hu and Chen, Xilin},
+           journal={IEEE Transactions on Image Processing},
+           year={2019}
+         }
