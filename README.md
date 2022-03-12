@@ -3,12 +3,20 @@ Main code of **CVPR2022 paper "PhysFormer: Facial Video-based Physiological Meas
 
 ![image](https://github.com/ZitongYu/PhysFormer/blob/main/framework.png)  
 
-Training:
+Training on VIPL-HR:
 -----
+'''
+python train_Physformer_160_VIPL.py
+'''
 
-Testing:
+Testing on One sample on VIPL-HR:
 ----
-  
+1. Download the test data [[Google Drive]](https://drive.google.com/file/d/1n1TpMQfU-OkZdJglEJyFp-vGo9JXbgsT/view?usp=sharing)   
+2. Run the model inference code (with trained checkpoint 'Physformer_VIPL_fold1.pkl') to get the predicted rPPG signal clips:
+'''
+python inference_OneSample_VIPL_PhysFormer.py
+'''
+3. Calculate the HR error with the file 'Inference_HRevaluation.m' using Matlab (You can also easily use python script instead). 
 
 
 Citation
