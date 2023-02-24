@@ -34,6 +34,14 @@ If you find it is useful in your research, please cite:
             booktitle={CVPR},
             year={2022}
           }
+          
+          @article{yu2023physformer++,
+           title={PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer},
+           author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Cui, Yawen and Zhang, Jiehua and Torr, Philip and Zhao, Guoying},
+           journal={International Journal of Computer Vision (IJCV)},
+           pages={1--24},
+           year={2023}
+         }
 
 If you use the VIPL-HR datset, please cite:  
          
